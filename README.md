@@ -57,7 +57,7 @@
 
 <!-- CAMERAS & SURVEILLANCE -->
 23. [:video_camera: IP Camera & Webcam OSINT](#23--ip-camera--webcam-osint)
-24. [:satellite_antenna: Google Dorking Bible](#24--google-dorking-bible)
+24. [📡 Google Dorking Bible](#24--google-dorking-bible)
 25. [:link: IP Tracking & Geolocation Links](#25--ip-tracking--geolocation-links)
 
 <!-- TELEGRAM & BOTS -->
