@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.jpg" width="860" alt="OSINT Arsenal Logo"/>
+<img src="assets/osint_arsenal_logo.png" width="900" alt="OSINT Arsenal"/>
 
 <br/>
 
